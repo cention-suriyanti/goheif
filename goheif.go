@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 
 	"github.com/cention-suriyanti/goheif/heif"
-	"libde265"
+	"github.com/cention-suriyanti/goheif/libde265"
 )
 
 // SafeEncoding uses more memory but seems to make

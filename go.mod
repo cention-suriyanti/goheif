@@ -1,1 +1,1 @@
-module github.com/adrium/goheif
+module github.com/cention-suriyanti/goheif
